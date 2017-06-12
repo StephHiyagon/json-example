@@ -1,0 +1,26 @@
+[
+  {
+    "name":"Rita",
+    "species":"cat",
+    "food":{
+      "likes":["meat","tuna"],
+      "dislikes":["chicken"]
+    }
+  },
+  {
+    "name":"Gatu",
+    "species":"dog",
+    "food":{
+      "likes":["meat","chicken"],
+      "dislikes":["cookies"]
+    }
+  },
+  {
+    "name":"Sinha",
+    "species":"rabbit",
+    "food":{
+      "likes":["carrots","lechuga"],
+      "dislikes":["conejina"]
+    }
+  }
+]
